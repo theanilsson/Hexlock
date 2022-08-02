@@ -1,0 +1,29 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-5-4852
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=8 type=0 insize=6731 outsize=5217 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=6731 outsize=1910 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3569 outsize=339 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3569 outsize=3876 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3569 outsize=1842 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3569 outsize=6 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3569 outsize=6 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3569 outsize=563 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3569 outsize=6 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3569 outsize=2119 kw=POINT_COOKIE ok=1
+Unhandled exception: Readfile from pipe failed. GLE=Denna pipe har avslutats.
+
+
+Quitting shader compiler process
+
+Crashed!
