@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: bc9bed2328abdce44834eb351ca39eac
+timeCreated: 1428496909
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Female:Body
+    100002: Female:Eyes
+    100004: Female:Group9811
+    100006: Female:Hair
+    100008: Gloves:Group51272
+    100010: Lowpoly:Mesh:subtool2
+    100012: Lowpoly:Mesh:subtool3
+    100014: Lowpoly:Mesh:subtool4
+    100016: Lowpoly:Mesh:subtool5
+    100018: Lowpoly:Mesh:subtool6
+    100020: Lowpoly:Mesh:subtool7
+    100022: Lowpoly:Mesh:subtool9
+    100024: //RootNode
+    400000: Female:Body
+    400002: Female:Eyes
+    400004: Female:Group9811
+    400006: Female:Hair
+    400008: Gloves:Group51272
+    400010: Lowpoly:Mesh:subtool2
+    400012: Lowpoly:Mesh:subtool3
+    400014: Lowpoly:Mesh:subtool4
+    400016: Lowpoly:Mesh:subtool5
+    400018: Lowpoly:Mesh:subtool6
+    400020: Lowpoly:Mesh:subtool7
+    400022: Lowpoly:Mesh:subtool9
+    400024: //RootNode
+    2300000: Female:Body
+    2300002: Female:Eyes
+    2300004: Female:Group9811
+    2300006: Female:Hair
+    2300008: Gloves:Group51272
+    2300010: Lowpoly:Mesh:subtool2
+    2300012: Lowpoly:Mesh:subtool3
+    2300014: Lowpoly:Mesh:subtool4
+    2300016: Lowpoly:Mesh:subtool5
+    2300018: Lowpoly:Mesh:subtool6
+    2300020: Lowpoly:Mesh:subtool7
+    2300022: Lowpoly:Mesh:subtool9
+    3300000: Female:Body
+    3300002: Female:Eyes
+    3300004: Female:Group9811
+    3300006: Female:Hair
+    3300008: Gloves:Group51272
+    3300010: Lowpoly:Mesh:subtool2
+    3300012: Lowpoly:Mesh:subtool3
+    3300014: Lowpoly:Mesh:subtool4
+    3300016: Lowpoly:Mesh:subtool5
+    3300018: Lowpoly:Mesh:subtool6
+    3300020: Lowpoly:Mesh:subtool7
+    3300022: Lowpoly:Mesh:subtool9
+    4300000: Lowpoly:Mesh:subtool2
+    4300002: Lowpoly:Mesh:subtool3
+    4300004: Lowpoly:Mesh:subtool4
+    4300006: Lowpoly:Mesh:subtool5
+    4300008: Lowpoly:Mesh:subtool6
+    4300010: Lowpoly:Mesh:subtool7
+    4300012: Lowpoly:Mesh:subtool9
+    4300014: Female:Hair
+    4300016: Female:Body
+    4300018: Female:Eyes
+    4300020: Female:Group9811
+    4300022: Gloves:Group51272
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton:
+    - name: Player(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female:Body
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female:Eyes
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female:Group9811
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female:Hair
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Gloves:Group51272
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lowpoly:Mesh:subtool2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lowpoly:Mesh:subtool3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lowpoly:Mesh:subtool4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lowpoly:Mesh:subtool5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lowpoly:Mesh:subtool6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lowpoly:Mesh:subtool7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lowpoly:Mesh:subtool9
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
